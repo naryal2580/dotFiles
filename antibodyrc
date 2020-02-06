@@ -1,0 +1,32 @@
+# The must have ZSH plugins
+naryal2580/zedShell path:plugins/zsh-completions
+naryal2580/zedShell path:plugins/zsh-autosuggestions
+naryal2580/zedShell path:plugins/zsh-syntax-highlighting
+# zsh-users/history-substring-search  # Have to fix..
+
+# More plugins, power++
+naryal2580/zedShell path:plugins/emoji-clock
+# naryal2580/zedShell path:plugins/git  # Have to do stuff here..
+naryal2580/zedShell path:plugins/adb
+naryal2580/zedShell path:plugins/archlinux
+naryal2580/zedShell path:plugins/autopep8
+naryal2580/zedShell path:plugins/catimg
+naryal2580/zedShell path:plugins/colored-man-pages
+naryal2580/zedShell path:plugins/colorize
+naryal2580/zedShell path:plugins/command-not-found
+naryal2580/zedShell path:plugins/common-aliases
+naryal2580/zedShell path:plugins/compleat
+naryal2580/zedShell path:plugins/copyfile
+naryal2580/zedShell path:plugins/docker
+naryal2580/zedShell path:plugins/docker-compose
+naryal2580/zedShell path:plugins/emoji-clock
+# naryal2580/zedShell path:plugins/fossil  # Even here..
+naryal2580/zedShell path:plugins/lol
+naryal2580/zedShell path:plugins/nmap
+naryal2580/zedShell path:plugins/pip
+naryal2580/zedShell path:plugins/python
+naryal2580/zedShell path:plugins/redis-cli
+naryal2580/zedShell path:plugins/safe-paste
+naryal2580/zedShell path:plugins/sudo
+# naryal2580/zedShell path:plugins/thefuck  # cool, but binding \e\t; cuz, sudo already used \e\e
+# tmux  # cool, TODO..

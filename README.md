@@ -10,6 +10,7 @@ My personal favorite [dot] files which I would love to share
 - [neofetch](https://github.com/dylanaraps/neofetch)
 - [antibody](https://getantibody.github.io/)
 - [lsd](https://github.com/Peltoche/lsd)
+- [chroma](https://github.com/alecthomas/chroma) / pygmentize
 - [neovim](https://neovim.io/)
 - [nerdfonts*](https://www.nerdfonts.com/)
 

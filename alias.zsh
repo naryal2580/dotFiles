@@ -1,0 +1,5 @@
+alias vim="nvim"
+alias ls="lsd"
+alias cat="ccat"
+alias less="cless"
+alias r13="\\tr 'A-Za-z' 'N-ZA-Mn-za-m'"

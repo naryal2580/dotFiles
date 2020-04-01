@@ -1,22 +1,25 @@
-# NeoFetch, fancy stuff..
-neofetch --ascii ~/.neoArt
+# NeoFetch, for fanciness..
+neofetch --ascii ~/.neo
 
 # Profile variables
 source ~/.profile
 
 # Load Antibody
 source <(antibody init)
+export ANTIBODY_HOME="$(antibody home)"
 
-antibody bundle < ~/.antibodyrc
+# Load Oh My Zsh
+source ~/.oh-my.zsh
+antibody bundle robbyrussell/oh-my-zsh
+
+# Other plugins
+antibody bundle < ~/.plugins.zsh
 
 # A there for an eyecandy kid..
-antibody bundle naryal2580/zedShell path:themes/powerlevel10k
+antibody bundle romkatv/powerlevel10k
 
-# pwelvl9k conf.
+# pwrlvl9k conf. for powerlevel10k
 source ~/.p9k.zsh
 
-alias vim="nvim"
-alias ls="lsd"
-alias cat="ccat"
-alias less="cless"
-alias rot13="\\tr 'A-Za-z' 'N-ZA-Mn-za-m'"
+# Set of useful alias
+source ~/.alias.zsh

@@ -2,11 +2,12 @@ ZSH_THEME=
 
 plugins=(
 	adb
-	debian
+	archlinux
 	autopep8
 	catimg
 	colored-man-pages
 	colorize
+	command-not-found
 	common-aliases
 	compleat
 	copyfile
@@ -14,6 +15,7 @@ plugins=(
 	docker-compose
 	emoji-clock
 	git
+	history-substring-search
 	lol
 	nmap
 	pip

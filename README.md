@@ -12,6 +12,7 @@ My personal favorite [dot] files which I would love to share
 - [lsd](https://github.com/Peltoche/lsd)
 - [chroma](https://github.com/alecthomas/chroma) / pygmentize
 - [neovim](https://neovim.io/)
+- [xclip](https://github.com/astrand/xclip)
 - [nerdfonts*](https://www.nerdfonts.com/)
 
 **NOTE**: If some shell commands like `cat`, `less`, etc. are bugging you please add a backslash `\` before the command. Making it look like `\cat > lulz << EOF`
